@@ -1,4 +1,4 @@
-Theses from my academic career.\
+Theses from my academic career.
 
 - Prior-data Fitted Networks and risk estimation, my Big Data Master's degree thesis, explores the possibility of applying specific transformer-based architectures to insurance prediction problems. Tabular PFNs ([paper](https://arxiv.org/abs/2207.01848)) are designed to approximate the Bayesian posterior predictive distribution instead of learning the dataset-specific function that connects responses to observations. This effectively internalizes an in-context learning algorithm, so the pre-trained network can be applied directly to unseen datasets and produce predictive distributions in a single forward pass, with no need for retraining or hyperparameter tuning.
 
